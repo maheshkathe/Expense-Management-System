@@ -151,22 +151,7 @@ create config folder and add config.env file in it and all all env variables the
 ![App Screenshot](https://i.postimg.cc/rwpWV2Z2/Expense-Management-System-Brave-19-04-2023-11-16-01.png)
 
 
-
-
-
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/maheshkathe/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-kathe/)
-
-
-## Demo
-
-Insert gif or link to demo
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
